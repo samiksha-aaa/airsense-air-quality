@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Local development
+.DS_Store
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# OS
+Thumbs.db
