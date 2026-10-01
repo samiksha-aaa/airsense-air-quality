@@ -2,6 +2,7 @@ fastapi
 uvicorn[standard]
 torch
 numpy
+pandas
 joblib
 scikit-learn
 pydantic
