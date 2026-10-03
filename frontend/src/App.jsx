@@ -38,7 +38,7 @@ import {
   YAxis,
 } from "recharts";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://airsense-r0qe.onrender.com";
 
 const defaultInputs = {
   sensor1: 1100,
